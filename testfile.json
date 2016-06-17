@@ -1,0 +1,22 @@
+{
+	"Draig" :{
+		"Age": 22,
+		"Height": 5.7,
+		"Rank": 1
+	},
+	"Light" :{
+		"Age": 57,
+		"Height": 5.4,
+		"Rank": 2
+	},
+	"Resha" :{
+		"Age": 34,
+		"Height": 5.5,
+		"Rank": 4
+	},
+	"Test" :{
+		"Age": 45,
+		"Height": 0,
+		"Rank": 3
+	}
+}
